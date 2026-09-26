@@ -1,0 +1,9 @@
+{
+  "name": "wallpapers",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node --test functions/_lib/rank.test.js functions/_lib/render.test.js functions/_lib/http.test.js functions/_lib/packs.test.js"
+  }
+}
