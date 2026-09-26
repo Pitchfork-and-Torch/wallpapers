@@ -1,0 +1,7 @@
+name = "wallpapers-jonbailey"
+compatibility_date = "2026-09-26"
+pages_build_output_dir = "public"
+
+[[kv_namespaces]]
+binding = "COUNTS"
+id = "de5515c8b8094d96b271adf9ce758f38"

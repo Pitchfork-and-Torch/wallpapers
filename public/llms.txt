@@ -1,0 +1,32 @@
+# Wallpapers
+
+> Original wallpapers by Jon Bailey. Full resolution, no account, free.
+
+## What this is
+
+A download site. The newest wallpaper opens the large view. Most loved is labeled on the main shelf.
+
+## Facts
+
+- No account
+- No payment
+- The download is the original file
+- Download all saves every wallpaper and counts a save of each one
+- The number at the top is the sum of the download count listed once on each wallpaper
+- Share on a picture copies a link to that wallpaper
+- The large view opens on the newest wallpaper. A current limited edition piece follows it, then the main set. Swipe, or use Previous and Next, to move through them
+- Cowboy Bebop is a separate section of Grok Bot desktop wallpapers in a jazz-noir colony. It stays out of the main shelf. Its newest piece opens the large view while it is the newest on the site
+- Akira (1988) is a separate section of Grok Bot desktop wallpapers in a late-1980s megacity at night. It stays out of the main shelf. Its newest piece opens the large view while it is the newest on the site
+- Final Fantasy 7 is a separate section of Grok Bot desktop wallpapers. It stays out of the main shelf. Its newest piece opens the large view while it is the newest on the site
+- Limited edition is a separate section of spooky scary Halloween Grok Bot desktop wallpapers
+- Veil & Vane Award Winners and Mace Windu are separate sections at the bottom of the page. They stay out of the main shelf and out of the large view
+- Most recent and Most popular reorder each section. Most popular follows download counts
+- Some wallpapers also have a phone-shaped file, and that download is full resolution too
+- The picture on the page is a preview
+- Most loved is the wallpaper with the most loves
+- Ties go to the wallpaper with more downloads, then to the newer one
+- Newest is the wallpaper added most recently
+
+## Canonical
+
+https://wallpaper.jonbailey.xyz/

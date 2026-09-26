@@ -1,0 +1,6 @@
+.wrangler/
+node_modules/
+*.log
+__pycache__/
+public/packs/
+public/packs.json
