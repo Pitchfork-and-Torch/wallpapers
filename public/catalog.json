@@ -1,0 +1,2266 @@
+{
+  "version": "1.3.22",
+  "wallpapers": [
+    {
+      "id": "grok-bots-orbs",
+      "title": "Grok Bots",
+      "summary": "Glossy round characters on flowing blue and violet ribbons, made for a 21:9 screen.",
+      "added": "2026-09-26",
+      "width": 7680,
+      "height": 3291,
+      "bytes": 15081052,
+      "sha256": "7b70a696f539cba0c706932bef4871f81fbf69c0ec8aafded55728d2e25f87b0",
+      "mime": "image/png",
+      "aspect": "21:9",
+      "filename": "grok-bots-orbs-ultrawide-8k-21x9-suddenlyjon.png",
+      "file": "/files/grok-bots-orbs.png",
+      "alt": "Glossy coral, mint, violet, orange, and white round characters with simple dark eyes, sitting on thick flowing blue and violet ribbons against a pale blue sky.",
+      "preview": {
+        "src": "/previews/grok-bots-orbs-2400.webp",
+        "srcset": "/previews/grok-bots-orbs-960.webp 960w, /previews/grok-bots-orbs-1600.webp 1600w, /previews/grok-bots-orbs-2400.webp 2400w, /previews/grok-bots-orbs-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-blossom",
+      "title": "Grok Bots, Blossom",
+      "summary": "Glossy round characters in a spring temple garden.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3767299,
+      "sha256": "0f03671d5b713963332fd7dbd3833afc40ce593ea65d03007d134459ea163211",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-blossom.jpg",
+      "file": "/files/grok-bots-blossom.jpg",
+      "alt": "Glossy round characters with simple dark eyes on stone in a cherry blossom garden.",
+      "preview": {
+        "src": "/previews/grok-bots-blossom-2400.webp",
+        "srcset": "/previews/grok-bots-blossom-960.webp 960w, /previews/grok-bots-blossom-1600.webp 1600w, /previews/grok-bots-blossom-2400.webp 2400w, /previews/grok-bots-blossom-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-reef",
+      "title": "Grok Bots, Reef",
+      "summary": "Glossy round characters over a sunlit coral reef.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4162995,
+      "sha256": "55c5536df44d40f2dd01e304fa5600b2b4f2f7f56f641a2a193a2844e74f018c",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-reef.jpg",
+      "file": "/files/grok-bots-reef.jpg",
+      "alt": "Glossy round characters with simple dark eyes drifting above a bright coral reef.",
+      "preview": {
+        "src": "/previews/grok-bots-reef-2400.webp",
+        "srcset": "/previews/grok-bots-reef-960.webp 960w, /previews/grok-bots-reef-1600.webp 1600w, /previews/grok-bots-reef-2400.webp 2400w, /previews/grok-bots-reef-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-foundry",
+      "title": "Grok Bots, Foundry",
+      "summary": "Glossy round characters on a steel beam above molten metal.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3380892,
+      "sha256": "5ff4f8ac8f51efb3754083ec0342c93cc0e91b91fcaf5dbffb28770723fd47b8",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-foundry.jpg",
+      "file": "/files/grok-bots-foundry.jpg",
+      "alt": "Glossy round characters with simple dark eyes lined up in a spark-filled foundry.",
+      "preview": {
+        "src": "/previews/grok-bots-foundry-2400.webp",
+        "srcset": "/previews/grok-bots-foundry-960.webp 960w, /previews/grok-bots-foundry-1600.webp 1600w, /previews/grok-bots-foundry-2400.webp 2400w, /previews/grok-bots-foundry-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-volcano",
+      "title": "Grok Bots, Volcano",
+      "summary": "Glossy round characters on a volcano rim at night.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 2932707,
+      "sha256": "c05e73247ae497e332d003901d6408c6b13e2ff300a05842e21566a5b6b0921e",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-volcano.jpg",
+      "file": "/files/grok-bots-volcano.jpg",
+      "alt": "Glossy round characters with simple dark eyes standing on black rock beside a lava lake.",
+      "preview": {
+        "src": "/previews/grok-bots-volcano-2400.webp",
+        "srcset": "/previews/grok-bots-volcano-960.webp 960w, /previews/grok-bots-volcano-1600.webp 1600w, /previews/grok-bots-volcano-2400.webp 2400w, /previews/grok-bots-volcano-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-library",
+      "title": "Grok Bots, Library",
+      "summary": "Glossy round characters along a reading table in a night library.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3217283,
+      "sha256": "9ac3069b5daa167eac25905e5a1a67a24fcef25819bf0120f9a97675d18196bd",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-library.jpg",
+      "file": "/files/grok-bots-library.jpg",
+      "alt": "Glossy round characters with simple dark eyes on a long table under green library lamps.",
+      "preview": {
+        "src": "/previews/grok-bots-library-2400.webp",
+        "srcset": "/previews/grok-bots-library-960.webp 960w, /previews/grok-bots-library-1600.webp 1600w, /previews/grok-bots-library-2400.webp 2400w, /previews/grok-bots-library-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-lavender",
+      "title": "Grok Bots, Lavender",
+      "summary": "Glossy round characters in a lavender field at sunrise.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4739667,
+      "sha256": "1583a53b4a85731674a731861e65341ad57f329a050ae80fe4de47b164053380",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-lavender.jpg",
+      "file": "/files/grok-bots-lavender.jpg",
+      "alt": "Glossy round characters with simple dark eyes among purple lavender rows at sunrise.",
+      "preview": {
+        "src": "/previews/grok-bots-lavender-2400.webp",
+        "srcset": "/previews/grok-bots-lavender-960.webp 960w, /previews/grok-bots-lavender-1600.webp 1600w, /previews/grok-bots-lavender-2400.webp 2400w, /previews/grok-bots-lavender-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-pines",
+      "title": "Grok Bots, Pines",
+      "summary": "Glossy round characters in a snowy pine forest at twilight.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4269362,
+      "sha256": "a1ea6f2f5a724a375ed58a76aaa08e9e34e1382eb361aff5c94b5c435137f751",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-pines.jpg",
+      "file": "/files/grok-bots-pines.jpg",
+      "alt": "Glossy round characters with simple dark eyes sitting in deep snow between pine trees.",
+      "preview": {
+        "src": "/previews/grok-bots-pines-2400.webp",
+        "srcset": "/previews/grok-bots-pines-960.webp 960w, /previews/grok-bots-pines-1600.webp 1600w, /previews/grok-bots-pines-2400.webp 2400w, /previews/grok-bots-pines-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-ballroom",
+      "title": "Grok Bots, Ballroom",
+      "summary": "Glossy round characters on the floor of a gold ballroom.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 5091366,
+      "sha256": "c6cc7b6e8aca7ca126f0e082c44a0d523b65761067260f80cdbd7c553939e302",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-ballroom.jpg",
+      "file": "/files/grok-bots-ballroom.jpg",
+      "alt": "Glossy round characters with simple dark eyes on a black marble floor under chandeliers.",
+      "preview": {
+        "src": "/previews/grok-bots-ballroom-2400.webp",
+        "srcset": "/previews/grok-bots-ballroom-960.webp 960w, /previews/grok-bots-ballroom-1600.webp 1600w, /previews/grok-bots-ballroom-2400.webp 2400w, /previews/grok-bots-ballroom-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-aurora",
+      "title": "Grok Bots, Aurora",
+      "summary": "Glossy round characters on a lakeshore under northern lights.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 2747223,
+      "sha256": "6868e711a03fc1413765977c6f6c0a4d54ff6f2065bce88631e06ddb9abc909f",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-aurora.jpg",
+      "file": "/files/grok-bots-aurora.jpg",
+      "alt": "Glossy round characters with simple dark eyes on wet black stones beneath green aurora.",
+      "preview": {
+        "src": "/previews/grok-bots-aurora-2400.webp",
+        "srcset": "/previews/grok-bots-aurora-960.webp 960w, /previews/grok-bots-aurora-1600.webp 1600w, /previews/grok-bots-aurora-2400.webp 2400w, /previews/grok-bots-aurora-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-bamboo",
+      "title": "Grok Bots, Bamboo",
+      "summary": "Glossy round characters in a foggy bamboo forest.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 3246,
+      "bytes": 3249119,
+      "sha256": "fe6dd3095dccea08caa544b55892d00afd4ea496fce966fcbdcb3290229e0bee",
+      "mime": "image/jpeg",
+      "aspect": "21:9",
+      "filename": "grok-bots-bamboo.jpg",
+      "file": "/files/grok-bots-bamboo.jpg",
+      "alt": "Glossy round characters with simple dark eyes along a mossy path in tall bamboo.",
+      "preview": {
+        "src": "/previews/grok-bots-bamboo-2400.webp",
+        "srcset": "/previews/grok-bots-bamboo-960.webp 960w, /previews/grok-bots-bamboo-1600.webp 1600w, /previews/grok-bots-bamboo-2400.webp 2400w, /previews/grok-bots-bamboo-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-diner",
+      "title": "Grok Bots, Diner",
+      "summary": "Glossy round characters along a diner counter at night.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3273590,
+      "sha256": "848e879796d1dd1cfbbd033e19536edf2c48530dfe146ef44f1cc616d43599ef",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-diner.jpg",
+      "file": "/files/grok-bots-diner.jpg",
+      "alt": "Glossy round characters with simple dark eyes lined up on a chrome diner counter.",
+      "preview": {
+        "src": "/previews/grok-bots-diner-2400.webp",
+        "srcset": "/previews/grok-bots-diner-960.webp 960w, /previews/grok-bots-diner-1600.webp 1600w, /previews/grok-bots-diner-2400.webp 2400w, /previews/grok-bots-diner-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-canyon",
+      "title": "Grok Bots, Canyon",
+      "summary": "Glossy round characters in a sunlit slot canyon.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3211816,
+      "sha256": "9ee2578ca6665c55d65995771f63b91a58396dc1e8a85ada126e619fdb9d3a44",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-canyon.jpg",
+      "file": "/files/grok-bots-canyon.jpg",
+      "alt": "Glossy round characters with simple dark eyes gathered on sand in an orange slot canyon.",
+      "preview": {
+        "src": "/previews/grok-bots-canyon-2400.webp",
+        "srcset": "/previews/grok-bots-canyon-960.webp 960w, /previews/grok-bots-canyon-1600.webp 1600w, /previews/grok-bots-canyon-2400.webp 2400w, /previews/grok-bots-canyon-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-storm",
+      "title": "Grok Bots, Storm",
+      "summary": "Glossy round characters on a ship deck in an ocean storm.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 3246,
+      "bytes": 3047590,
+      "sha256": "e95bd3f74e03af1eb47c085d97fe2fb9843f47d8840937ec51895d6012c12127",
+      "mime": "image/jpeg",
+      "aspect": "21:9",
+      "filename": "grok-bots-storm.jpg",
+      "file": "/files/grok-bots-storm.jpg",
+      "alt": "Glossy round characters with simple dark eyes on a wet wooden deck between huge waves.",
+      "preview": {
+        "src": "/previews/grok-bots-storm-2400.webp",
+        "srcset": "/previews/grok-bots-storm-960.webp 960w, /previews/grok-bots-storm-1600.webp 1600w, /previews/grok-bots-storm-2400.webp 2400w, /previews/grok-bots-storm-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-salt",
+      "title": "Grok Bots, Salt",
+      "summary": "Glossy round characters across a mirrored salt flat.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 2438981,
+      "sha256": "b49cee3141976bb2a4aae5dfbfc2006b6ebd778f0722efb0847d966237dcb375",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-salt.jpg",
+      "file": "/files/grok-bots-salt.jpg",
+      "alt": "Glossy round characters with simple dark eyes and their reflections on a white salt flat.",
+      "preview": {
+        "src": "/previews/grok-bots-salt-2400.webp",
+        "srcset": "/previews/grok-bots-salt-960.webp 960w, /previews/grok-bots-salt-1600.webp 1600w, /previews/grok-bots-salt-2400.webp 2400w, /previews/grok-bots-salt-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-cathedral",
+      "title": "Grok Bots, Cathedral",
+      "summary": "Glossy round characters in colored light inside a stone cathedral.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 3246,
+      "bytes": 3414202,
+      "sha256": "0f7974da75a156ec41c022ff692591638cd714d163eca7a54bc31580b1bb44c0",
+      "mime": "image/jpeg",
+      "aspect": "21:9",
+      "filename": "grok-bots-cathedral.jpg",
+      "file": "/files/grok-bots-cathedral.jpg",
+      "alt": "Glossy round characters with simple dark eyes standing in stained-glass light.",
+      "preview": {
+        "src": "/previews/grok-bots-cathedral-2400.webp",
+        "srcset": "/previews/grok-bots-cathedral-960.webp 960w, /previews/grok-bots-cathedral-1600.webp 1600w, /previews/grok-bots-cathedral-2400.webp 2400w, /previews/grok-bots-cathedral-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-alley",
+      "title": "Grok Bots, Alley",
+      "summary": "Glossy round characters in a narrow alley during snowfall.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4055699,
+      "sha256": "c1ee5dc9d43623c88e6cfae6550437ed148278aae05b4e7ffd3b1c90273b3059",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-alley.jpg",
+      "file": "/files/grok-bots-alley.jpg",
+      "alt": "Glossy round characters with simple dark eyes on a snowy step under red lanterns.",
+      "preview": {
+        "src": "/previews/grok-bots-alley-2400.webp",
+        "srcset": "/previews/grok-bots-alley-960.webp 960w, /previews/grok-bots-alley-1600.webp 1600w, /previews/grok-bots-alley-2400.webp 2400w, /previews/grok-bots-alley-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-wheat",
+      "title": "Grok Bots, Wheat",
+      "summary": "Glossy round characters in a wheat field under a storm.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 3246,
+      "bytes": 2870291,
+      "sha256": "40906e13793d1877922fbe945e3d9e7eb646079197a13ec8d4a36771849cd12e",
+      "mime": "image/jpeg",
+      "aspect": "21:9",
+      "filename": "grok-bots-wheat.jpg",
+      "file": "/files/grok-bots-wheat.jpg",
+      "alt": "Glossy round characters with simple dark eyes among golden wheat as a storm builds.",
+      "preview": {
+        "src": "/previews/grok-bots-wheat-2400.webp",
+        "srcset": "/previews/grok-bots-wheat-960.webp 960w, /previews/grok-bots-wheat-1600.webp 1600w, /previews/grok-bots-wheat-2400.webp 2400w, /previews/grok-bots-wheat-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-clouds",
+      "title": "Grok Bots, Clouds",
+      "summary": "Glossy round characters on a rooftop above the clouds.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 3246,
+      "bytes": 2263793,
+      "sha256": "68bfbee5496fa821147236725fb8d47d736ac682f1fe0cb8ff76aedc7d8e1f69",
+      "mime": "image/jpeg",
+      "aspect": "21:9",
+      "filename": "grok-bots-clouds.jpg",
+      "file": "/files/grok-bots-clouds.jpg",
+      "alt": "Glossy round characters with simple dark eyes along a parapet above a cloud deck at sunset.",
+      "preview": {
+        "src": "/previews/grok-bots-clouds-2400.webp",
+        "srcset": "/previews/grok-bots-clouds-960.webp 960w, /previews/grok-bots-clouds-1600.webp 1600w, /previews/grok-bots-clouds-2400.webp 2400w, /previews/grok-bots-clouds-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-cave",
+      "title": "Grok Bots, Cave",
+      "summary": "Glossy round characters beside a glowing pool in a dark cave.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3303756,
+      "sha256": "b6e96f02e416af40be8c6c0c89bbe6f24f0b5ee120caf26cfa3a9bfc21e17561",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-cave.jpg",
+      "file": "/files/grok-bots-cave.jpg",
+      "alt": "Glossy round characters with simple dark eyes gathered by a blue bioluminescent pool.",
+      "preview": {
+        "src": "/previews/grok-bots-cave-2400.webp",
+        "srcset": "/previews/grok-bots-cave-960.webp 960w, /previews/grok-bots-cave-1600.webp 1600w, /previews/grok-bots-cave-2400.webp 2400w, /previews/grok-bots-cave-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-redwood",
+      "title": "Grok Bots, Redwood",
+      "summary": "Glossy round characters at the foot of giant redwoods.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 3246,
+      "bytes": 3605829,
+      "sha256": "471f0b735af7d7a85e9a6a98cc1f853610fc81741d06687eed087ccdae7f3dd4",
+      "mime": "image/jpeg",
+      "aspect": "21:9",
+      "filename": "grok-bots-redwood.jpg",
+      "file": "/files/grok-bots-redwood.jpg",
+      "alt": "Glossy round characters with simple dark eyes on the forest floor beside huge redwood trunks.",
+      "preview": {
+        "src": "/previews/grok-bots-redwood-2400.webp",
+        "srcset": "/previews/grok-bots-redwood-960.webp 960w, /previews/grok-bots-redwood-1600.webp 1600w, /previews/grok-bots-redwood-2400.webp 2400w, /previews/grok-bots-redwood-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-ice",
+      "title": "Grok Bots, Ice",
+      "summary": "Glossy round characters on a frozen sea at blue hour.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3252523,
+      "sha256": "a14b4d992d8effddb60a7b6358bbd9f23136b93ccf10690ae412f36f859e055d",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-ice.jpg",
+      "file": "/files/grok-bots-ice.jpg",
+      "alt": "Glossy round characters with simple dark eyes resting on cracked blue ice under a low sun.",
+      "preview": {
+        "src": "/previews/grok-bots-ice-2400.webp",
+        "srcset": "/previews/grok-bots-ice-960.webp 960w, /previews/grok-bots-ice-1600.webp 1600w, /previews/grok-bots-ice-2400.webp 2400w, /previews/grok-bots-ice-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-rain",
+      "title": "Grok Bots, Rain",
+      "summary": "Glossy round characters on a wet city street at night.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 3213,
+      "bytes": 2728014,
+      "sha256": "f4491401d4d5097a26f6ccae4965d2d276f21ba22b676117a2ba8efd0a5f968e",
+      "mime": "image/jpeg",
+      "aspect": "21:9",
+      "filename": "grok-bots-rain.jpg",
+      "file": "/files/grok-bots-rain.jpg",
+      "alt": "Glossy round characters with simple dark eyes sitting in neon reflections on a rainy street.",
+      "preview": {
+        "src": "/previews/grok-bots-rain-2400.webp",
+        "srcset": "/previews/grok-bots-rain-960.webp 960w, /previews/grok-bots-rain-1600.webp 1600w, /previews/grok-bots-rain-2400.webp 2400w, /previews/grok-bots-rain-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-dunes",
+      "title": "Grok Bots, Dunes",
+      "summary": "Glossy round characters scattered across red dunes at dusk.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 3246,
+      "bytes": 2243335,
+      "sha256": "aed324b3769a8aa0a716e320df49168ad49474a506d22ed687ae9f66c1f13f7c",
+      "mime": "image/jpeg",
+      "aspect": "21:9",
+      "filename": "grok-bots-dunes.jpg",
+      "file": "/files/grok-bots-dunes.jpg",
+      "alt": "Small glossy round characters with simple dark eyes spread over red sand dunes under an orange dusk sky.",
+      "preview": {
+        "src": "/previews/grok-bots-dunes-2400.webp",
+        "srcset": "/previews/grok-bots-dunes-960.webp 960w, /previews/grok-bots-dunes-1600.webp 1600w, /previews/grok-bots-dunes-2400.webp 2400w, /previews/grok-bots-dunes-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-kelp",
+      "title": "Grok Bots, Kelp",
+      "summary": "Glossy round characters drifting through an underwater kelp forest.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 2788543,
+      "sha256": "06a7c13bb2c7e52665dda09c396836cbbc0ccc5e60f37a5fd47b1298c5750b62",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-kelp.jpg",
+      "file": "/files/grok-bots-kelp.jpg",
+      "alt": "Glossy round characters with simple dark eyes floating among kelp and bubbles in sunlit water.",
+      "preview": {
+        "src": "/previews/grok-bots-kelp-2400.webp",
+        "srcset": "/previews/grok-bots-kelp-960.webp 960w, /previews/grok-bots-kelp-1600.webp 1600w, /previews/grok-bots-kelp-2400.webp 2400w, /previews/grok-bots-kelp-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-moon",
+      "title": "Grok Bots, Moon",
+      "summary": "Glossy round characters on the lunar surface, with Earth in the sky.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 3246,
+      "bytes": 2958806,
+      "sha256": "565ae018380000ec8bb38af401f32e724323e6cadaa1f54e2dc774dcbbba48bf",
+      "mime": "image/jpeg",
+      "aspect": "21:9",
+      "filename": "grok-bots-moon.jpg",
+      "file": "/files/grok-bots-moon.jpg",
+      "alt": "Glossy round characters with simple dark eyes standing on gray moon dust beneath a star field and the Earth.",
+      "preview": {
+        "src": "/previews/grok-bots-moon-2400.webp",
+        "srcset": "/previews/grok-bots-moon-960.webp 960w, /previews/grok-bots-moon-1600.webp 1600w, /previews/grok-bots-moon-2400.webp 2400w, /previews/grok-bots-moon-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-grove",
+      "title": "Grok Bots, Grove",
+      "summary": "Glossy round characters gathered on a mossy stone in an autumn grove.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 3246,
+      "bytes": 3191880,
+      "sha256": "8d81f588a46958b291b3b84397ff66350c2756d21f0a00f324653c87b61ac940",
+      "mime": "image/jpeg",
+      "aspect": "21:9",
+      "filename": "grok-bots-grove.jpg",
+      "file": "/files/grok-bots-grove.jpg",
+      "alt": "Glossy round characters with simple dark eyes clustered on a mossy rock among ferns and autumn leaves.",
+      "preview": {
+        "src": "/previews/grok-bots-grove-2400.webp",
+        "srcset": "/previews/grok-bots-grove-960.webp 960w, /previews/grok-bots-grove-1600.webp 1600w, /previews/grok-bots-grove-2400.webp 2400w, /previews/grok-bots-grove-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-glacier",
+      "title": "Grok Bots, Glacier",
+      "summary": "Glossy round characters inside a blue ice cave.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3823399,
+      "sha256": "8d2648c60f5c840fe0862979531f6a56378eac5a940ff5445aa000bcd9cc1dfc",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-glacier.jpg",
+      "file": "/files/grok-bots-glacier.jpg",
+      "alt": "Glossy round characters with simple dark eyes standing on ice under a sunbeam in a blue glacier cave.",
+      "preview": {
+        "src": "/previews/grok-bots-glacier-2400.webp",
+        "srcset": "/previews/grok-bots-glacier-960.webp 960w, /previews/grok-bots-glacier-1600.webp 1600w, /previews/grok-bots-glacier-2400.webp 2400w, /previews/grok-bots-glacier-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-glacier-phone.jpg",
+        "filename": "grok-bots-glacier-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3820765,
+        "sha256": "626bc28167ed2c62f1998213e61b3180519efecb3c97437fb3bf4da249222a5c",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-canal",
+      "title": "Grok Bots, Canal",
+      "summary": "Glossy round characters on a quiet canal at dawn.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3472071,
+      "sha256": "2b9688f33064d571198279e7c686e9fc9576854931d56cc631738545cf4ba7e5",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-canal.jpg",
+      "file": "/files/grok-bots-canal.jpg",
+      "alt": "Glossy round characters with simple dark eyes floating on a still canal beneath a stone bridge at sunrise.",
+      "preview": {
+        "src": "/previews/grok-bots-canal-2400.webp",
+        "srcset": "/previews/grok-bots-canal-960.webp 960w, /previews/grok-bots-canal-1600.webp 1600w, /previews/grok-bots-canal-2400.webp 2400w, /previews/grok-bots-canal-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-canal-phone.jpg",
+        "filename": "grok-bots-canal-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 2489406,
+        "sha256": "313e800365e70e89d70586d42236435051fa023a4f22057e68ede4a505646a6e",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-savanna",
+      "title": "Grok Bots, Savanna",
+      "summary": "Glossy round characters in golden grass at sunset.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4375333,
+      "sha256": "cc28ee34433630dcc8bb3d8b98d47fd145d00b6e931f6fa0e9fff5c8ca65ea88",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-savanna.jpg",
+      "file": "/files/grok-bots-savanna.jpg",
+      "alt": "Glossy round characters with simple dark eyes in tall savanna grass, with one tree and a low sun.",
+      "preview": {
+        "src": "/previews/grok-bots-savanna-2400.webp",
+        "srcset": "/previews/grok-bots-savanna-960.webp 960w, /previews/grok-bots-savanna-1600.webp 1600w, /previews/grok-bots-savanna-2400.webp 2400w, /previews/grok-bots-savanna-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-savanna-phone.jpg",
+        "filename": "grok-bots-savanna-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 4151280,
+        "sha256": "d53512b200a25d10347387d2ed0a0445aa7c54b29b0cab4f0f3330e68359bf44",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-onsen",
+      "title": "Grok Bots, Onsen",
+      "summary": "Glossy round characters around a steaming hot spring at dusk.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 3246,
+      "bytes": 2379708,
+      "sha256": "dafedbce3c56a2413c4db07cf5c94b0430df5ef49b639bf37640c1e32ed18fad",
+      "mime": "image/jpeg",
+      "aspect": "21:9",
+      "filename": "grok-bots-onsen.jpg",
+      "file": "/files/grok-bots-onsen.jpg",
+      "alt": "Glossy round characters with simple dark eyes on mossy rocks beside a steaming pool at dusk.",
+      "preview": {
+        "src": "/previews/grok-bots-onsen-2400.webp",
+        "srcset": "/previews/grok-bots-onsen-960.webp 960w, /previews/grok-bots-onsen-1600.webp 1600w, /previews/grok-bots-onsen-2400.webp 2400w, /previews/grok-bots-onsen-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-onsen-phone.jpg",
+        "filename": "grok-bots-onsen-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 2784761,
+        "sha256": "cc90b317ec9981affdd7ce4d97970c0c4a0bd12553447b376392570cc2731f00",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-marble",
+      "title": "Grok Bots, Marble",
+      "summary": "Glossy round characters in a sunlit marble hall.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 2972443,
+      "sha256": "2883092fa891557c387dd042b263e3803fad3b67ac466701e08f7c80aec860b0",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-marble.jpg",
+      "file": "/files/grok-bots-marble.jpg",
+      "alt": "Glossy round characters with simple dark eyes floating through a long marble gallery.",
+      "preview": {
+        "src": "/previews/grok-bots-marble-2400.webp",
+        "srcset": "/previews/grok-bots-marble-960.webp 960w, /previews/grok-bots-marble-1600.webp 1600w, /previews/grok-bots-marble-2400.webp 2400w, /previews/grok-bots-marble-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-marble-phone.jpg",
+        "filename": "grok-bots-marble-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 2850014,
+        "sha256": "11e8c5475447ef40aa95fbefa471460de2451602c9bb55dc388e5f7d25913c18",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-rooftop",
+      "title": "Grok Bots, Rooftop",
+      "summary": "Glossy round characters on a city rooftop at night.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 3246,
+      "bytes": 2784124,
+      "sha256": "edeeb9af5cda0c3b9dd9e22329b61f69fef4280ad9cf189bdbe1eecb4e51f5ba",
+      "mime": "image/jpeg",
+      "aspect": "21:9",
+      "filename": "grok-bots-rooftop.jpg",
+      "file": "/files/grok-bots-rooftop.jpg",
+      "alt": "Glossy round characters with simple dark eyes on a concrete rooftop above a lit skyline.",
+      "preview": {
+        "src": "/previews/grok-bots-rooftop-2400.webp",
+        "srcset": "/previews/grok-bots-rooftop-960.webp 960w, /previews/grok-bots-rooftop-1600.webp 1600w, /previews/grok-bots-rooftop-2400.webp 2400w, /previews/grok-bots-rooftop-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-rooftop-phone.jpg",
+        "filename": "grok-bots-rooftop-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3111944,
+        "sha256": "91275e9281a94b3f360cfaa12dfd230a089d247ff5d51b5c515e25c5789de73c",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-lake",
+      "title": "Grok Bots, Lake",
+      "summary": "Glossy round characters on a misty lake at sunrise.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 3246,
+      "bytes": 2623308,
+      "sha256": "c4c0dd4db9e59f483eb441dddcaae0d09c1e985c7740b041528480879648d984",
+      "mime": "image/jpeg",
+      "aspect": "21:9",
+      "filename": "grok-bots-lake.jpg",
+      "file": "/files/grok-bots-lake.jpg",
+      "alt": "Glossy round characters with simple dark eyes along a pebbled shore of a foggy lake at dawn.",
+      "preview": {
+        "src": "/previews/grok-bots-lake-2400.webp",
+        "srcset": "/previews/grok-bots-lake-960.webp 960w, /previews/grok-bots-lake-1600.webp 1600w, /previews/grok-bots-lake-2400.webp 2400w, /previews/grok-bots-lake-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-lake-phone.jpg",
+        "filename": "grok-bots-lake-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 2963146,
+        "sha256": "ed15d6de09cee1829b81135d2311cffe0e1454669423543058b1ff788918db77",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-sunflowers",
+      "title": "Grok Bots, Sunflowers",
+      "summary": "Glossy round characters in a sunflower field.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4017800,
+      "sha256": "46da82b1ae3e8a95bca2dc6144b1ed5f07b67d516bab3f3e067a7cc5ed6b89d6",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-sunflowers.jpg",
+      "file": "/files/grok-bots-sunflowers.jpg",
+      "alt": "Glossy round characters with simple dark eyes among tall sunflowers under a bright sky.",
+      "preview": {
+        "src": "/previews/grok-bots-sunflowers-2400.webp",
+        "srcset": "/previews/grok-bots-sunflowers-960.webp 960w, /previews/grok-bots-sunflowers-1600.webp 1600w, /previews/grok-bots-sunflowers-2400.webp 2400w, /previews/grok-bots-sunflowers-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-sunflowers-phone.jpg",
+        "filename": "grok-bots-sunflowers-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3294169,
+        "sha256": "636ac2bb6a575ac01183fa7080576dfaeb053f8b455cf0f137d9738fbcc12265",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-atoll",
+      "title": "Grok Bots, Atoll",
+      "summary": "Glossy round characters on a white-sand island.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4223882,
+      "sha256": "43cbe69d84a978bcf167e6a5856e6b387ee303b0a5861d5b8cbf8e1f69591ec4",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-atoll.jpg",
+      "file": "/files/grok-bots-atoll.jpg",
+      "alt": "Glossy round characters with simple dark eyes gathered on a small white-sand island in clear water.",
+      "preview": {
+        "src": "/previews/grok-bots-atoll-2400.webp",
+        "srcset": "/previews/grok-bots-atoll-960.webp 960w, /previews/grok-bots-atoll-1600.webp 1600w, /previews/grok-bots-atoll-2400.webp 2400w, /previews/grok-bots-atoll-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-atoll-phone.jpg",
+        "filename": "grok-bots-atoll-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3213498,
+        "sha256": "b0a804f440a12d4458415aa01a787aa3048a8048ab6e1d334627f9af302088ad",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-campfire",
+      "title": "Grok Bots, Campfire",
+      "summary": "Glossy round characters around a desert campfire at night.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 2457775,
+      "sha256": "9d91500fd8c6e83521044ca2cc254a2f2fb585ebef052a057887ff369872e177",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-campfire.jpg",
+      "file": "/files/grok-bots-campfire.jpg",
+      "alt": "Glossy round characters with simple dark eyes circled around a campfire in the dunes under the Milky Way.",
+      "preview": {
+        "src": "/previews/grok-bots-campfire-2400.webp",
+        "srcset": "/previews/grok-bots-campfire-960.webp 960w, /previews/grok-bots-campfire-1600.webp 1600w, /previews/grok-bots-campfire-2400.webp 2400w, /previews/grok-bots-campfire-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-campfire-phone.jpg",
+        "filename": "grok-bots-campfire-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 2862817,
+        "sha256": "f70c138b5f7461edb725c5a04b1a2396922d93c0744fbbf486090e44f03fd39e",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-platform",
+      "title": "Grok Bots, Platform",
+      "summary": "Glossy round characters on a foggy train platform.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 2939072,
+      "sha256": "e6cabd22f01c8e85aa3a8f8758c51e2553923757fb33efee608a3946910fde98",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-platform.jpg",
+      "file": "/files/grok-bots-platform.jpg",
+      "alt": "Glossy round characters with simple dark eyes along a wet train platform in the fog.",
+      "preview": {
+        "src": "/previews/grok-bots-platform-2400.webp",
+        "srcset": "/previews/grok-bots-platform-960.webp 960w, /previews/grok-bots-platform-1600.webp 1600w, /previews/grok-bots-platform-2400.webp 2400w, /previews/grok-bots-platform-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-platform-phone.jpg",
+        "filename": "grok-bots-platform-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 2923118,
+        "sha256": "ba46a9330ccbb28f181a26d85bf0dbe63db34a426622b0bec408179b270778eb",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-orchids",
+      "title": "Grok Bots, Orchids",
+      "summary": "Glossy round characters in an orchid greenhouse.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4122343,
+      "sha256": "bbe777cb853baf229ebc50ef3a8be86cea0cf161c225bbb477bcf2da507a72ec",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-orchids.jpg",
+      "file": "/files/grok-bots-orchids.jpg",
+      "alt": "Glossy round characters with simple dark eyes among orchids and wet glass in a greenhouse.",
+      "preview": {
+        "src": "/previews/grok-bots-orchids-2400.webp",
+        "srcset": "/previews/grok-bots-orchids-960.webp 960w, /previews/grok-bots-orchids-1600.webp 1600w, /previews/grok-bots-orchids-2400.webp 2400w, /previews/grok-bots-orchids-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-orchids-phone.jpg",
+        "filename": "grok-bots-orchids-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3791234,
+        "sha256": "ab195b68a02bfdb83d217a1c8006a8a5685e20033ad9e06e06529101a9366e22",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-village",
+      "title": "Grok Bots, Village",
+      "summary": "Glossy round characters in a snowy village at night.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3224379,
+      "sha256": "efbe6777e86ca02400f5a25b7908bddfbbb47d532c3c1dbd8130b1503b30e2b1",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-village.jpg",
+      "file": "/files/grok-bots-village.jpg",
+      "alt": "Glossy round characters with simple dark eyes in the snow between lit wooden houses.",
+      "preview": {
+        "src": "/previews/grok-bots-village-2400.webp",
+        "srcset": "/previews/grok-bots-village-960.webp 960w, /previews/grok-bots-village-1600.webp 1600w, /previews/grok-bots-village-2400.webp 2400w, /previews/grok-bots-village-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-village-phone.jpg",
+        "filename": "grok-bots-village-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 2918397,
+        "sha256": "0c1c399f1bff1c2fde8b0592d4e749c67bbf4ded0c73f3712c4c1d60ce1d4ea4",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-jazz",
+      "title": "Grok Bots, Jazz",
+      "summary": "Glossy round characters on a small jazz stage.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 2454237,
+      "sha256": "07b65e2ddfa09621a44b0f0279a6cb47747828d1f802069302f34755924e1109",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-jazz.jpg",
+      "file": "/files/grok-bots-jazz.jpg",
+      "alt": "Glossy round characters with simple dark eyes in a warm spotlight beside a saxophone and drums.",
+      "preview": {
+        "src": "/previews/grok-bots-jazz-2400.webp",
+        "srcset": "/previews/grok-bots-jazz-960.webp 960w, /previews/grok-bots-jazz-1600.webp 1600w, /previews/grok-bots-jazz-2400.webp 2400w, /previews/grok-bots-jazz-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-jazz-phone.jpg",
+        "filename": "grok-bots-jazz-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 2796181,
+        "sha256": "d920d66242277694d2eebf456851178dd1487285f1c499ff5dc061cb12ddb030",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-courtyard",
+      "title": "Grok Bots, Courtyard",
+      "summary": "Glossy round characters in a tiled courtyard with a fountain.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4456391,
+      "sha256": "0e61c552b5418a758cb769db168506a779e719254ad6aa4082b08a294dbd9c8b",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-courtyard.jpg",
+      "file": "/files/grok-bots-courtyard.jpg",
+      "alt": "Glossy round characters with simple dark eyes around a stone fountain in a sunlit courtyard.",
+      "preview": {
+        "src": "/previews/grok-bots-courtyard-2400.webp",
+        "srcset": "/previews/grok-bots-courtyard-960.webp 960w, /previews/grok-bots-courtyard-1600.webp 1600w, /previews/grok-bots-courtyard-2400.webp 2400w, /previews/grok-bots-courtyard-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-courtyard-phone.jpg",
+        "filename": "grok-bots-courtyard-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 4316571,
+        "sha256": "05f29b2769222b65c3faa5df51c223385213e2d1279d80c7b823f2c03d53c5b5",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-cliff",
+      "title": "Grok Bots, Cliff",
+      "summary": "Glossy round characters on a cliff above a turquoise sea.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 3246,
+      "bytes": 3758577,
+      "sha256": "a3a12cfb1c1cc1b93a8973e9ddf35958cda4af28ca8b34ceef0d1a935aa806c5",
+      "mime": "image/jpeg",
+      "aspect": "21:9",
+      "filename": "grok-bots-cliff.jpg",
+      "file": "/files/grok-bots-cliff.jpg",
+      "alt": "Glossy round characters with simple dark eyes on a rock ledge over bright water.",
+      "preview": {
+        "src": "/previews/grok-bots-cliff-2400.webp",
+        "srcset": "/previews/grok-bots-cliff-960.webp 960w, /previews/grok-bots-cliff-1600.webp 1600w, /previews/grok-bots-cliff-2400.webp 2400w, /previews/grok-bots-cliff-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-cliff-phone.jpg",
+        "filename": "grok-bots-cliff-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3393468,
+        "sha256": "8a2e6267083fdea11449cb359c8431e7122733f451e55c9a34a8b9cacb42d178",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-orbit",
+      "title": "Grok Bots, Orbit",
+      "summary": "Glossy round characters at a window looking onto a blue planet.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 3246,
+      "bytes": 2843075,
+      "sha256": "adcb479f030a6072b19d1acfd824fabe672d85eedb2120d74144d557cd51d0fb",
+      "mime": "image/jpeg",
+      "aspect": "21:9",
+      "filename": "grok-bots-orbit.jpg",
+      "file": "/files/grok-bots-orbit.jpg",
+      "alt": "Glossy round characters with simple dark eyes inside a spacecraft, with a blue planet filling the round window.",
+      "preview": {
+        "src": "/previews/grok-bots-orbit-2400.webp",
+        "srcset": "/previews/grok-bots-orbit-960.webp 960w, /previews/grok-bots-orbit-1600.webp 1600w, /previews/grok-bots-orbit-2400.webp 2400w, /previews/grok-bots-orbit-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-orbit-phone.jpg",
+        "filename": "grok-bots-orbit-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3125967,
+        "sha256": "d973263403d8cc1e841e40351cfe01c04cb54c46478afd0f0bc58b126143522e",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-glow",
+      "title": "Grok Bots, Glow",
+      "summary": "Glossy round characters on a beach where the waves glow.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 3246,
+      "bytes": 2354065,
+      "sha256": "d2e81074e2c9a3507fe8976996ff5a1ed01701f4e1083be880b21ebcf883bc2f",
+      "mime": "image/jpeg",
+      "aspect": "21:9",
+      "filename": "grok-bots-glow.jpg",
+      "file": "/files/grok-bots-glow.jpg",
+      "alt": "Glossy round characters with simple dark eyes on wet sand beside blue glowing surf at night.",
+      "preview": {
+        "src": "/previews/grok-bots-glow-2400.webp",
+        "srcset": "/previews/grok-bots-glow-960.webp 960w, /previews/grok-bots-glow-1600.webp 1600w, /previews/grok-bots-glow-2400.webp 2400w, /previews/grok-bots-glow-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-glow-phone.jpg",
+        "filename": "grok-bots-glow-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 2553378,
+        "sha256": "2e8e2e152a582cf5b2ef869730e8ebcdcde72785fc5c9a0bf0fb3878f74a42ea",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-balloons",
+      "title": "Grok Bots, Balloons",
+      "summary": "Glossy round characters in green hills under hot-air balloons.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4270165,
+      "sha256": "e2ea9e288e99da58f0fe507069b0e9d6e9629c3e3e61987d19f5dfcf7ed2228c",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-balloons.jpg",
+      "file": "/files/grok-bots-balloons.jpg",
+      "alt": "Glossy round characters with simple dark eyes over patchwork fields, with hot-air balloons in the sky.",
+      "preview": {
+        "src": "/previews/grok-bots-balloons-2400.webp",
+        "srcset": "/previews/grok-bots-balloons-960.webp 960w, /previews/grok-bots-balloons-1600.webp 1600w, /previews/grok-bots-balloons-2400.webp 2400w, /previews/grok-bots-balloons-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-balloons-phone.jpg",
+        "filename": "grok-bots-balloons-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3680006,
+        "sha256": "85d80ba3f1890c75faca3f00645be986cf57e8364e6b81c69cecfdb297cab296",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-black-sand",
+      "title": "Grok Bots, Black Sand",
+      "summary": "Glossy round characters on a black-sand beach.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3013450,
+      "sha256": "c83a83d0ae3f6c78b6943d43664247a1e52c129fb465b4d4e314428ef2e52618",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-black-sand.jpg",
+      "file": "/files/grok-bots-black-sand.jpg",
+      "alt": "Glossy round characters with simple dark eyes on dark sand where pale surf meets a cliff.",
+      "preview": {
+        "src": "/previews/grok-bots-black-sand-2400.webp",
+        "srcset": "/previews/grok-bots-black-sand-960.webp 960w, /previews/grok-bots-black-sand-1600.webp 1600w, /previews/grok-bots-black-sand-2400.webp 2400w, /previews/grok-bots-black-sand-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-black-sand-phone.jpg",
+        "filename": "grok-bots-black-sand-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 2423354,
+        "sha256": "aee1b29c8a31a2780ca4565932efdd05a254345933bfb789c7afcf4243488da4",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-ava",
+      "title": "Grok Bots, Ava",
+      "summary": "An homage portrait surrounded by glossy round characters.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 2960754,
+      "sha256": "7fb50f80bffec466ad81c0fb3c2c0abdeadf3086bde711397c3e9a9715f5fb1c",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-ava.jpg",
+      "file": "/files/grok-bots-ava.jpg",
+      "alt": "A smiling woman with freckles and a white lace top, surrounded by glossy round characters with simple dark eyes.",
+      "preview": {
+        "src": "/previews/grok-bots-ava-2400.webp",
+        "srcset": "/previews/grok-bots-ava-960.webp 960w, /previews/grok-bots-ava-1600.webp 1600w, /previews/grok-bots-ava-2400.webp 2400w, /previews/grok-bots-ava-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-jenny",
+      "title": "Grok Bots, Jenny",
+      "summary": "A pirate princess on a fashion beach, surrounded by glossy pirate crabs.",
+      "added": "2026-09-25",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3831413,
+      "sha256": "2f4cfc64fb7e181e50084837f9eded2c9fa3cec3c910ecc159718eca03f2ca3a",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-jenny.jpg",
+      "file": "/files/grok-bots-jenny.jpg",
+      "alt": "A woman in a blue and white gown, gold crown, and black sunglasses stands on a sunny beach, surrounded by glossy pirate crabs.",
+      "preview": {
+        "src": "/previews/grok-bots-jenny-2400.webp?v=2",
+        "srcset": "/previews/grok-bots-jenny-960.webp?v=2 960w, /previews/grok-bots-jenny-1600.webp?v=2 1600w, /previews/grok-bots-jenny-2400.webp?v=2 2400w, /previews/grok-bots-jenny-3200.webp?v=2 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-fjord",
+      "title": "Grok Bots, Fjord",
+      "summary": "Glossy round characters on a still fjord at morning.",
+      "added": "2026-09-27",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3442328,
+      "sha256": "010029a1efab92a194135510a4cbc2eb6e6134c079c3b5cf5d967ddc5b49d010",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-fjord.jpg",
+      "file": "/files/grok-bots-fjord.jpg",
+      "alt": "Glossy round characters with simple dark eyes beside a red boathouse on a misty fjord.",
+      "preview": {
+        "src": "/previews/grok-bots-fjord-2400.webp",
+        "srcset": "/previews/grok-bots-fjord-960.webp 960w, /previews/grok-bots-fjord-1600.webp 1600w, /previews/grok-bots-fjord-2400.webp 2400w, /previews/grok-bots-fjord-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-tulips",
+      "title": "Grok Bots, Tulips",
+      "summary": "Glossy round characters in a tulip field at golden hour.",
+      "added": "2026-09-27",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3998615,
+      "sha256": "6d96621aa0c714f315f7482bfd2ecd143e4d83aa53803ee53eb0feb4a463395b",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-tulips.jpg",
+      "file": "/files/grok-bots-tulips.jpg",
+      "alt": "Glossy round characters with simple dark eyes among bands of tulips, with a windmill far behind them.",
+      "preview": {
+        "src": "/previews/grok-bots-tulips-2400.webp",
+        "srcset": "/previews/grok-bots-tulips-960.webp 960w, /previews/grok-bots-tulips-1600.webp 1600w, /previews/grok-bots-tulips-2400.webp 2400w, /previews/grok-bots-tulips-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-lighthouse",
+      "title": "Grok Bots, Lighthouse",
+      "summary": "Glossy round characters on wet rocks under a lighthouse beam.",
+      "added": "2026-09-27",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3115172,
+      "sha256": "80cd31b292942c8d269925fdd48d184dcc546ed23c27345dd0d40bc0df4cb035",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-lighthouse.jpg",
+      "file": "/files/grok-bots-lighthouse.jpg",
+      "alt": "Glossy round characters with simple dark eyes on dark rocks, with a lit lighthouse and a beam through fog.",
+      "preview": {
+        "src": "/previews/grok-bots-lighthouse-2400.webp",
+        "srcset": "/previews/grok-bots-lighthouse-960.webp 960w, /previews/grok-bots-lighthouse-1600.webp 1600w, /previews/grok-bots-lighthouse-2400.webp 2400w, /previews/grok-bots-lighthouse-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-terraces",
+      "title": "Grok Bots, Terraces",
+      "summary": "Glossy round characters on flooded rice terraces at dawn.",
+      "added": "2026-09-27",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3952977,
+      "sha256": "a7805d127cf77cf90233cbd6c2398e4f35667c2beffeee6c5117feb38a79de02",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-terraces.jpg",
+      "file": "/files/grok-bots-terraces.jpg",
+      "alt": "Glossy round characters with simple dark eyes along a rice terrace above misty valleys.",
+      "preview": {
+        "src": "/previews/grok-bots-terraces-2400.webp",
+        "srcset": "/previews/grok-bots-terraces-960.webp 960w, /previews/grok-bots-terraces-1600.webp 1600w, /previews/grok-bots-terraces-2400.webp 2400w, /previews/grok-bots-terraces-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-fireflies",
+      "title": "Grok Bots, Fireflies",
+      "summary": "Glossy round characters in a meadow of fireflies at dusk.",
+      "added": "2026-09-27",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3144918,
+      "sha256": "d80b548b0dffe977c642b3edb407529639d502975e0dfb28198cf1dd0267295f",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-fireflies.jpg",
+      "file": "/files/grok-bots-fireflies.jpg",
+      "alt": "Glossy round characters with simple dark eyes in tall grass under a field of firefly lights.",
+      "preview": {
+        "src": "/previews/grok-bots-fireflies-2400.webp",
+        "srcset": "/previews/grok-bots-fireflies-960.webp 960w, /previews/grok-bots-fireflies-1600.webp 1600w, /previews/grok-bots-fireflies-2400.webp 2400w, /previews/grok-bots-fireflies-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-harbor",
+      "title": "Grok Bots, Harbor",
+      "summary": "Glossy round characters on a quiet fishing dock at dawn.",
+      "added": "2026-09-27",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3268703,
+      "sha256": "ba881f6f264ed2d9363f9877af016263e451b1817e3cd3740a67e0651b2e9466",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-harbor.jpg",
+      "file": "/files/grok-bots-harbor.jpg",
+      "alt": "Glossy round characters with simple dark eyes on a wooden dock among foggy fishing boats.",
+      "preview": {
+        "src": "/previews/grok-bots-harbor-2400.webp",
+        "srcset": "/previews/grok-bots-harbor-960.webp 960w, /previews/grok-bots-harbor-1600.webp 1600w, /previews/grok-bots-harbor-2400.webp 2400w, /previews/grok-bots-harbor-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-maple",
+      "title": "Grok Bots, Maple",
+      "summary": "Glossy round characters on a maple bridge in autumn.",
+      "added": "2026-09-27",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 5233223,
+      "sha256": "28bd73e7c0f877945d58c2fb3897ea2d78b69be38c30f85349bea118c4c0a4d6",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-maple.jpg",
+      "file": "/files/grok-bots-maple.jpg",
+      "alt": "Glossy round characters with simple dark eyes on a wooden bridge under red maple leaves.",
+      "preview": {
+        "src": "/previews/grok-bots-maple-2400.webp",
+        "srcset": "/previews/grok-bots-maple-960.webp 960w, /previews/grok-bots-maple-1600.webp 1600w, /previews/grok-bots-maple-2400.webp 2400w, /previews/grok-bots-maple-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-geyser",
+      "title": "Grok Bots, Geyser",
+      "summary": "Glossy round characters beside a steaming mineral pool.",
+      "added": "2026-09-27",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4938824,
+      "sha256": "8bef5e4b10eba3d005d13917a6a293a2bfb726231ffa91cac560a00915712837",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-geyser.jpg",
+      "file": "/files/grok-bots-geyser.jpg",
+      "alt": "Glossy round characters with simple dark eyes on white mineral crust beside a turquoise hot pool.",
+      "preview": {
+        "src": "/previews/grok-bots-geyser-2400.webp",
+        "srcset": "/previews/grok-bots-geyser-960.webp 960w, /previews/grok-bots-geyser-1600.webp 1600w, /previews/grok-bots-geyser-2400.webp 2400w, /previews/grok-bots-geyser-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-heather",
+      "title": "Grok Bots, Heather",
+      "summary": "Glossy round characters in purple heather on an open moor.",
+      "added": "2026-09-27",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4818070,
+      "sha256": "aedccf94604aa5bdd9241a096c322d2adf54bbea820aed31811dc00a96c623a4",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-heather.jpg",
+      "file": "/files/grok-bots-heather.jpg",
+      "alt": "Glossy round characters with simple dark eyes in heather, with a stone bothy under a low sky.",
+      "preview": {
+        "src": "/previews/grok-bots-heather-2400.webp",
+        "srcset": "/previews/grok-bots-heather-960.webp 960w, /previews/grok-bots-heather-1600.webp 1600w, /previews/grok-bots-heather-2400.webp 2400w, /previews/grok-bots-heather-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-lotus",
+      "title": "Grok Bots, Lotus",
+      "summary": "Glossy round characters on a walkway over a lotus pond.",
+      "added": "2026-09-27",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3367273,
+      "sha256": "8d022109046d82920169a5cf11da99c8dc2c4c4d3052973a538a335060da08b3",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-lotus.jpg",
+      "file": "/files/grok-bots-lotus.jpg",
+      "alt": "Glossy round characters with simple dark eyes on a wooden walkway among pink lotus blooms.",
+      "preview": {
+        "src": "/previews/grok-bots-lotus-2400.webp",
+        "srcset": "/previews/grok-bots-lotus-960.webp 960w, /previews/grok-bots-lotus-1600.webp 1600w, /previews/grok-bots-lotus-2400.webp 2400w, /previews/grok-bots-lotus-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-lanterns",
+      "title": "Grok Bots, Lanterns",
+      "summary": "Glossy round characters among glowing jack-o-lanterns at dusk.",
+      "added": "2026-09-27",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 2862086,
+      "sha256": "7af3703aa02eb54a9940ff0911b3b28a17cd9bb5b3c50f4d424a1d074bce66fe",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-lanterns.jpg",
+      "file": "/files/grok-bots-lanterns.jpg",
+      "alt": "Glossy round characters with simple dark eyes on a foggy path of carved pumpkins.",
+      "preview": {
+        "src": "/previews/grok-bots-lanterns-2400.webp",
+        "srcset": "/previews/grok-bots-lanterns-960.webp 960w, /previews/grok-bots-lanterns-1600.webp 1600w, /previews/grok-bots-lanterns-2400.webp 2400w, /previews/grok-bots-lanterns-3200.webp 3200w"
+      },
+      "edition": "halloween",
+      "editionFeatured": true
+    },
+    {
+      "id": "grok-bots-graveyard",
+      "title": "Grok Bots, Graveyard",
+      "summary": "Glossy round characters at a moonlit cemetery gate.",
+      "added": "2026-09-27",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3711458,
+      "sha256": "9824cac4bc9dba1d18af552379150ba64d8f97f0dfb5f159ec4e19268941d8f7",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-graveyard.jpg",
+      "file": "/files/grok-bots-graveyard.jpg",
+      "alt": "Glossy round characters with simple dark eyes on a wet path between iron gates and weathered stones.",
+      "preview": {
+        "src": "/previews/grok-bots-graveyard-2400.webp",
+        "srcset": "/previews/grok-bots-graveyard-960.webp 960w, /previews/grok-bots-graveyard-1600.webp 1600w, /previews/grok-bots-graveyard-2400.webp 2400w, /previews/grok-bots-graveyard-3200.webp 3200w"
+      },
+      "edition": "halloween"
+    },
+    {
+      "id": "grok-bots-manor",
+      "title": "Grok Bots, Manor",
+      "summary": "Glossy round characters on the path to a candlelit manor.",
+      "added": "2026-09-27",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3153768,
+      "sha256": "362aeeff9241d042b8423edcc54f5d511024a8860c37e5edf1035ed8d8b0a995",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-manor.jpg",
+      "file": "/files/grok-bots-manor.jpg",
+      "alt": "Glossy round characters with simple dark eyes on wet stone in front of a dark house with lit windows.",
+      "preview": {
+        "src": "/previews/grok-bots-manor-2400.webp",
+        "srcset": "/previews/grok-bots-manor-960.webp 960w, /previews/grok-bots-manor-1600.webp 1600w, /previews/grok-bots-manor-2400.webp 2400w, /previews/grok-bots-manor-3200.webp 3200w"
+      },
+      "edition": "halloween"
+    },
+    {
+      "id": "grok-bots-maze",
+      "title": "Grok Bots, Maze",
+      "summary": "Glossy round characters in a corn maze at night.",
+      "added": "2026-09-27",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3599975,
+      "sha256": "710cba6a19752df7913b0572785e597e396687443b24596d4e40798dfa3cd411",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-maze.jpg",
+      "file": "/files/grok-bots-maze.jpg",
+      "alt": "Glossy round characters with simple dark eyes along a dirt path between tall corn, with one distant lantern.",
+      "preview": {
+        "src": "/previews/grok-bots-maze-2400.webp",
+        "srcset": "/previews/grok-bots-maze-960.webp 960w, /previews/grok-bots-maze-1600.webp 1600w, /previews/grok-bots-maze-2400.webp 2400w, /previews/grok-bots-maze-3200.webp 3200w"
+      },
+      "edition": "halloween"
+    },
+    {
+      "id": "grok-bots-spiders",
+      "title": "Grok Bots, Spiders",
+      "summary": "Glossy round characters in a web-draped glasshouse under the moon.",
+      "added": "2026-09-27",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4990530,
+      "sha256": "41150bc52ee3b7372d69027e229ea4960ea77bfebe984255de002c098e60d233",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-spiders.jpg",
+      "file": "/files/grok-bots-spiders.jpg",
+      "alt": "Glossy round characters with simple dark eyes on a stone floor inside a moonlit conservatory hung with webs.",
+      "preview": {
+        "src": "/previews/grok-bots-spiders-2400.webp",
+        "srcset": "/previews/grok-bots-spiders-960.webp 960w, /previews/grok-bots-spiders-1600.webp 1600w, /previews/grok-bots-spiders-2400.webp 2400w, /previews/grok-bots-spiders-3200.webp 3200w"
+      },
+      "edition": "halloween"
+    },
+    {
+      "id": "grok-bots-witches",
+      "title": "Grok Bots, Witches",
+      "summary": "Glossy round characters beside a cottage and a glowing cauldron.",
+      "added": "2026-09-27",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4005513,
+      "sha256": "74a05a3559860b284bcd0700577976214c59f0da6c18d5b565aed2bd29a1e204",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-witches.jpg",
+      "file": "/files/grok-bots-witches.jpg",
+      "alt": "Glossy round characters with simple dark eyes on moss beside a crooked cottage and a green-glowing cauldron.",
+      "preview": {
+        "src": "/previews/grok-bots-witches-2400.webp",
+        "srcset": "/previews/grok-bots-witches-960.webp 960w, /previews/grok-bots-witches-1600.webp 1600w, /previews/grok-bots-witches-2400.webp 2400w, /previews/grok-bots-witches-3200.webp 3200w"
+      },
+      "edition": "halloween"
+    },
+    {
+      "id": "grok-bots-hollow",
+      "title": "Grok Bots, Hollow",
+      "summary": "Glossy round characters on a nearly black suburban street at night.",
+      "added": "2026-09-27",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 1243770,
+      "sha256": "b798ee21ca9fc8acad9bd979b9e2f63583c92b9a0862a80d99aa58f7e9d1db19",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-hollow.jpg",
+      "file": "/files/grok-bots-hollow.jpg",
+      "alt": "Glossy round characters with simple dark eyes in a mostly black street, with one distant porch light and a dark pumpkin.",
+      "preview": {
+        "src": "/previews/grok-bots-hollow-2400.webp",
+        "srcset": "/previews/grok-bots-hollow-960.webp 960w, /previews/grok-bots-hollow-1600.webp 1600w, /previews/grok-bots-hollow-2400.webp 2400w, /previews/grok-bots-hollow-3200.webp 3200w"
+      },
+      "edition": "halloween"
+    },
+    {
+      "id": "grok-bots-cabins",
+      "title": "Grok Bots, Cabins",
+      "summary": "Glossy round characters on a camp dock over a dark lake.",
+      "added": "2026-09-27",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3514111,
+      "sha256": "03d601f168aaa57951f64ea6e7e0250027555d34dc35321cb747b27eeab46f20",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-cabins.jpg",
+      "file": "/files/grok-bots-cabins.jpg",
+      "alt": "Glossy round characters with simple dark eyes on a wooden dock, with empty cabins and pines across a moonlit lake.",
+      "preview": {
+        "src": "/previews/grok-bots-cabins-2400.webp",
+        "srcset": "/previews/grok-bots-cabins-960.webp 960w, /previews/grok-bots-cabins-1600.webp 1600w, /previews/grok-bots-cabins-2400.webp 2400w, /previews/grok-bots-cabins-3200.webp 3200w"
+      },
+      "edition": "halloween"
+    },
+    {
+      "id": "grok-bots-hedges",
+      "title": "Grok Bots, Hedges",
+      "summary": "Glossy round characters in a snow-covered hedge maze.",
+      "added": "2026-09-27",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3356696,
+      "sha256": "02b027f9767deea6fb0a20611800e6c2483856cc3a1427e4e42b4c6acc188d6b",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-hedges.jpg",
+      "file": "/files/grok-bots-hedges.jpg",
+      "alt": "Glossy round characters with simple dark eyes on snow between tall hedges, with one lit window in a distant mountain hotel.",
+      "preview": {
+        "src": "/previews/grok-bots-hedges-2400.webp",
+        "srcset": "/previews/grok-bots-hedges-960.webp 960w, /previews/grok-bots-hedges-1600.webp 1600w, /previews/grok-bots-hedges-2400.webp 2400w, /previews/grok-bots-hedges-3200.webp 3200w"
+      },
+      "edition": "halloween"
+    },
+    {
+      "id": "grok-bots-stairs",
+      "title": "Grok Bots, Stairs",
+      "summary": "Glossy round characters on a steep brick stair street at night.",
+      "added": "2026-09-27",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4425651,
+      "sha256": "5fe12eb5576c0fafdb1a663bd09171d9f67a0e0936642957afdb6a95777af78d",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-stairs.jpg",
+      "file": "/files/grok-bots-stairs.jpg",
+      "alt": "Glossy round characters with simple dark eyes on wet stone stairs between brick houses, under one streetlamp.",
+      "preview": {
+        "src": "/previews/grok-bots-stairs-2400.webp",
+        "srcset": "/previews/grok-bots-stairs-960.webp 960w, /previews/grok-bots-stairs-1600.webp 1600w, /previews/grok-bots-stairs-2400.webp 2400w, /previews/grok-bots-stairs-3200.webp 3200w"
+      },
+      "edition": "halloween"
+    },
+    {
+      "id": "grok-bots-ceiling-garden",
+      "title": "Grok Bots, Ceiling Garden",
+      "summary": "Surrealism set. Flowers hang from a soil ceiling over open sky.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4558739,
+      "sha256": "0b7349a5ef16c7c447c82e2d090afb2e95a2841ae35f040d2c63afc7caaece74",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-ceiling-garden.jpg",
+      "file": "/files/grok-bots-ceiling-garden.jpg",
+      "alt": "Glossy round characters with simple dark eyes among flowers that hang from a ceiling of soil, with blue sky below.",
+      "preview": {
+        "src": "/previews/grok-bots-ceiling-garden-2400.webp",
+        "srcset": "/previews/grok-bots-ceiling-garden-960.webp 960w, /previews/grok-bots-ceiling-garden-1600.webp 1600w, /previews/grok-bots-ceiling-garden-2400.webp 2400w, /previews/grok-bots-ceiling-garden-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-ceiling-garden-phone.jpg",
+        "filename": "grok-bots-ceiling-garden-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3601528,
+        "sha256": "f037894644c14ed1ac40636cbe3c076e9973afc016ef2a557846f0a7f6671e3b",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-chess-fog",
+      "title": "Grok Bots, Chess Fog",
+      "summary": "Surrealism set. Giant marble chess pieces stand in white fog.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 2457012,
+      "sha256": "8cfd68f67589490011b6c92a1b869d7ef51ff67c44a85bbdd0d3ad14b7975d18",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-chess-fog.jpg",
+      "file": "/files/grok-bots-chess-fog.jpg",
+      "alt": "Glossy round characters with simple dark eyes beside giant marble chess pieces in thick white fog.",
+      "preview": {
+        "src": "/previews/grok-bots-chess-fog-2400.webp",
+        "srcset": "/previews/grok-bots-chess-fog-960.webp 960w, /previews/grok-bots-chess-fog-1600.webp 1600w, /previews/grok-bots-chess-fog-2400.webp 2400w, /previews/grok-bots-chess-fog-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-chess-fog-phone.jpg",
+        "filename": "grok-bots-chess-fog-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 2482237,
+        "sha256": "4ab8625c99f1f5011362da966c7b288e29968183faffd39ef98833a39ee82e6d",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-clock-orchard",
+      "title": "Grok Bots, Clock Orchard",
+      "summary": "Surrealism set. Blank clocks hang in a violet dusk orchard.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4159068,
+      "sha256": "3725b2866384428bb0a58fe230f8ca7d50795c9da81552a18ff867e8ef097b6f",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-clock-orchard.jpg",
+      "file": "/files/grok-bots-clock-orchard.jpg",
+      "alt": "Glossy round characters with simple dark eyes in an orchard of blank clock faces at violet dusk.",
+      "preview": {
+        "src": "/previews/grok-bots-clock-orchard-2400.webp",
+        "srcset": "/previews/grok-bots-clock-orchard-960.webp 960w, /previews/grok-bots-clock-orchard-1600.webp 1600w, /previews/grok-bots-clock-orchard-2400.webp 2400w, /previews/grok-bots-clock-orchard-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-clock-orchard-phone.jpg",
+        "filename": "grok-bots-clock-orchard-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3817744,
+        "sha256": "479b199f75addd24a5191599fa6e0a667ee1671f249b44b5ff4f142ccb631a34",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-door-field",
+      "title": "Grok Bots, Door Field",
+      "summary": "Surrealism set. Colored doors in a wheat field open onto other places.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4197278,
+      "sha256": "4ba671f9223a00e8814195d9faf315e63e33ac8f011b4ebaed30c32a720a93df",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-door-field.jpg",
+      "file": "/files/grok-bots-door-field.jpg",
+      "alt": "Glossy round characters with simple dark eyes among freestanding doors in a wheat field, some open onto an ocean, a galaxy, and a room.",
+      "preview": {
+        "src": "/previews/grok-bots-door-field-2400.webp",
+        "srcset": "/previews/grok-bots-door-field-960.webp 960w, /previews/grok-bots-door-field-1600.webp 1600w, /previews/grok-bots-door-field-2400.webp 2400w, /previews/grok-bots-door-field-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-door-field-phone.jpg",
+        "filename": "grok-bots-door-field-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3722743,
+        "sha256": "43031c2b70e467d158c8db87ae7bcf6bf18b8ef377041f53ca0048ff6f29a5ba",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-eye-weather",
+      "title": "Grok Bots, Eye Weather",
+      "summary": "Surrealism set. A rowboat under a sky of giant cloud-eyes.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3484263,
+      "sha256": "958ba95693e0d96b8bf7d1c427e4385e5056551b1ed2d1f1140cb8e3737a59b8",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-eye-weather.jpg",
+      "file": "/files/grok-bots-eye-weather.jpg",
+      "alt": "Glossy round characters with simple dark eyes in a wooden rowboat on still water, under giant eyes made of cloud.",
+      "preview": {
+        "src": "/previews/grok-bots-eye-weather-2400.webp",
+        "srcset": "/previews/grok-bots-eye-weather-960.webp 960w, /previews/grok-bots-eye-weather-1600.webp 1600w, /previews/grok-bots-eye-weather-2400.webp 2400w, /previews/grok-bots-eye-weather-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-eye-weather-phone.jpg",
+        "filename": "grok-bots-eye-weather-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3237399,
+        "sha256": "cc47abd3442328c5b9c9fd433b7f69afe2a6e675b1fc4a585cd0a0aedf3afbea",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-fish-sky",
+      "title": "Grok Bots, Fish Sky",
+      "summary": "Surrealism set. Glowing fish swim the night sky above a roof.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3411799,
+      "sha256": "8ecd67660c4812a4139d970165ab7afc42bfd6460da8413c5175da3c0104cd76",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-fish-sky.jpg",
+      "file": "/files/grok-bots-fish-sky.jpg",
+      "alt": "Glossy round characters with simple dark eyes on a rooftop under a night sky of glowing fish.",
+      "preview": {
+        "src": "/previews/grok-bots-fish-sky-2400.webp",
+        "srcset": "/previews/grok-bots-fish-sky-960.webp 960w, /previews/grok-bots-fish-sky-1600.webp 1600w, /previews/grok-bots-fish-sky-2400.webp 2400w, /previews/grok-bots-fish-sky-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-fish-sky-phone.jpg",
+        "filename": "grok-bots-fish-sky-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3092955,
+        "sha256": "112241413c7bed5d9e2f667d6f18708145e82bbb736aa30f0895356e50f901ba",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-floating-parlor",
+      "title": "Grok Bots, Floating Parlor",
+      "summary": "Surrealism set. A parlor room adrift in pink clouds.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4049368,
+      "sha256": "8fd5e319868ac72279e4b9ec86d3289ca2b06a7556c07b3b25f0276895606818",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-floating-parlor.jpg",
+      "file": "/files/grok-bots-floating-parlor.jpg",
+      "alt": "Glossy round characters with simple dark eyes in a furnished parlor floating in pink clouds.",
+      "preview": {
+        "src": "/previews/grok-bots-floating-parlor-2400.webp",
+        "srcset": "/previews/grok-bots-floating-parlor-960.webp 960w, /previews/grok-bots-floating-parlor-1600.webp 1600w, /previews/grok-bots-floating-parlor-2400.webp 2400w, /previews/grok-bots-floating-parlor-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-floating-parlor-phone.jpg",
+        "filename": "grok-bots-floating-parlor-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3289893,
+        "sha256": "cb29fba68fe6eb58057eede5866c7cf98712b46f42cfd1d3b9c61d294b44635b",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-gear-shore",
+      "title": "Grok Bots, Gear Shore",
+      "summary": "Surrealism set. A dusk beach paved with brass gears.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3470424,
+      "sha256": "6f23cb2579e55ea44fc53990d33a5d9ebf37f25536690155e1cc6df36ce06155",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-gear-shore.jpg",
+      "file": "/files/grok-bots-gear-shore.jpg",
+      "alt": "Glossy round characters with simple dark eyes on a beach where the sand is covered in brass gears.",
+      "preview": {
+        "src": "/previews/grok-bots-gear-shore-2400.webp",
+        "srcset": "/previews/grok-bots-gear-shore-960.webp 960w, /previews/grok-bots-gear-shore-1600.webp 1600w, /previews/grok-bots-gear-shore-2400.webp 2400w, /previews/grok-bots-gear-shore-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-gear-shore-phone.jpg",
+        "filename": "grok-bots-gear-shore-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3445363,
+        "sha256": "542b40be5284a1102ccdebf89771e43123e65af69e4eb2595ee16cd61334475b",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-key-dunes",
+      "title": "Grok Bots, Key Dunes",
+      "summary": "Surrealism set. Giant brass keys half-buried in desert dunes.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3685889,
+      "sha256": "2bf99a3e1a4eb497658d5d458d63be9075c987e0e8eb74d3d594a072d3be8bb8",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-key-dunes.jpg",
+      "file": "/files/grok-bots-key-dunes.jpg",
+      "alt": "Glossy round characters with simple dark eyes sitting on giant brass keys in a desert.",
+      "preview": {
+        "src": "/previews/grok-bots-key-dunes-2400.webp",
+        "srcset": "/previews/grok-bots-key-dunes-960.webp 960w, /previews/grok-bots-key-dunes-1600.webp 1600w, /previews/grok-bots-key-dunes-2400.webp 2400w, /previews/grok-bots-key-dunes-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-key-dunes-phone.jpg",
+        "filename": "grok-bots-key-dunes-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3275796,
+        "sha256": "e3f718e2fd203548a00318cb1d086d465e743d41ab38f096903400461ac8b506",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-melting-arcade",
+      "title": "Grok Bots, Melting Arcade",
+      "summary": "Surrealism set. Neon cabinets melt into colored puddles.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3524425,
+      "sha256": "ba34b132dd88bfaf81095b72ceedb0d26146413a09679bd61aeef89f074cd805",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-melting-arcade.jpg",
+      "file": "/files/grok-bots-melting-arcade.jpg",
+      "alt": "Glossy round characters with simple dark eyes among arcade cabinets melting into pink, yellow, and teal puddles.",
+      "preview": {
+        "src": "/previews/grok-bots-melting-arcade-2400.webp",
+        "srcset": "/previews/grok-bots-melting-arcade-960.webp 960w, /previews/grok-bots-melting-arcade-1600.webp 1600w, /previews/grok-bots-melting-arcade-2400.webp 2400w, /previews/grok-bots-melting-arcade-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-melting-arcade-phone.jpg",
+        "filename": "grok-bots-melting-arcade-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3202498,
+        "sha256": "b8b36cecffbf50bbb3e14170b49fe0b9716a226abbdeb4a8c40c029fde3f2ed8",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-moon-greenhouse",
+      "title": "Grok Bots, Moon Greenhouse",
+      "summary": "Surrealism set. A glass house where vines grow moons and planets.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4483858,
+      "sha256": "99dfe9c6829cfcdaace9d462064e7fd4b0e1ac872c1ebb795475fdda18dc35e8",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-moon-greenhouse.jpg",
+      "file": "/files/grok-bots-moon-greenhouse.jpg",
+      "alt": "Glossy round characters with simple dark eyes in a night greenhouse of glowing moons and ringed planets.",
+      "preview": {
+        "src": "/previews/grok-bots-moon-greenhouse-2400.webp",
+        "srcset": "/previews/grok-bots-moon-greenhouse-960.webp 960w, /previews/grok-bots-moon-greenhouse-1600.webp 1600w, /previews/grok-bots-moon-greenhouse-2400.webp 2400w, /previews/grok-bots-moon-greenhouse-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-moon-greenhouse-phone.jpg",
+        "filename": "grok-bots-moon-greenhouse-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 4013845,
+        "sha256": "52c708bc6d580ba1aca3bc0751e8cf0137281ce1ed59e4729a1b547f44780167",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-piano-walls",
+      "title": "Grok Bots, Piano Walls",
+      "summary": "Surrealism set. A canyon of piano keys around a waterfall.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3305934,
+      "sha256": "835dae64909503cc2e26f39a9461005282176372656e6d296e3d35e21d73fce3",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-piano-walls.jpg",
+      "file": "/files/grok-bots-piano-walls.jpg",
+      "alt": "Glossy round characters with simple dark eyes on giant piano keys that form the walls of a canyon.",
+      "preview": {
+        "src": "/previews/grok-bots-piano-walls-2400.webp",
+        "srcset": "/previews/grok-bots-piano-walls-960.webp 960w, /previews/grok-bots-piano-walls-1600.webp 1600w, /previews/grok-bots-piano-walls-2400.webp 2400w, /previews/grok-bots-piano-walls-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-piano-walls-phone.jpg",
+        "filename": "grok-bots-piano-walls-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3311949,
+        "sha256": "f9deb4653af17e2325e3654d3d20954caa44285920449e53e01e65ebf3bec1f5",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-pillow-eruption",
+      "title": "Grok Bots, Pillow Eruption",
+      "summary": "Surrealism set. A volcano of pillows sending up feathers.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3134794,
+      "sha256": "8d0102210492616c27b9efa979395f60a04f12a77ce548eabd090b7d51564b14",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-pillow-eruption.jpg",
+      "file": "/files/grok-bots-pillow-eruption.jpg",
+      "alt": "Glossy round characters with simple dark eyes on a volcano made of pastel pillows, with feathers in the sky.",
+      "preview": {
+        "src": "/previews/grok-bots-pillow-eruption-2400.webp",
+        "srcset": "/previews/grok-bots-pillow-eruption-960.webp 960w, /previews/grok-bots-pillow-eruption-1600.webp 1600w, /previews/grok-bots-pillow-eruption-2400.webp 2400w, /previews/grok-bots-pillow-eruption-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-pillow-eruption-phone.jpg",
+        "filename": "grok-bots-pillow-eruption-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 2910166,
+        "sha256": "9be3167f9c62825f85041279d6ea8a3d2c61f69c51a32b1f8e789f218a3e38c9",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-spoon-bridge",
+      "title": "Grok Bots, Spoon Bridge",
+      "summary": "Surrealism set. A spoon arched between towers of bowls.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3439324,
+      "sha256": "ca04d38d75e6f1278cd58bac9505a50769686153c1e3281659fa7d42ad5e1059",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-spoon-bridge.jpg",
+      "file": "/files/grok-bots-spoon-bridge.jpg",
+      "alt": "Glossy round characters with simple dark eyes crossing a spoon bridge between stacks of bowls.",
+      "preview": {
+        "src": "/previews/grok-bots-spoon-bridge-2400.webp",
+        "srcset": "/previews/grok-bots-spoon-bridge-960.webp 960w, /previews/grok-bots-spoon-bridge-1600.webp 1600w, /previews/grok-bots-spoon-bridge-2400.webp 2400w, /previews/grok-bots-spoon-bridge-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-spoon-bridge-phone.jpg",
+        "filename": "grok-bots-spoon-bridge-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3192423,
+        "sha256": "2149e2c2dd6752692e61cdb42f4743f6db604f15b8d18c2ace9610492dc91cc1",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-stair-sea",
+      "title": "Grok Bots, Stair Sea",
+      "summary": "Surrealism set. Marble stairs rise out of a black sea toward the moon.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3066804,
+      "sha256": "251b0b9d97f283e8f00868317db559b962e39eed9f5e597263f4dc9196344108",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-stair-sea.jpg",
+      "file": "/files/grok-bots-stair-sea.jpg",
+      "alt": "Glossy round characters with simple dark eyes on white marble stairs rising from a black ocean toward a huge moon.",
+      "preview": {
+        "src": "/previews/grok-bots-stair-sea-2400.webp",
+        "srcset": "/previews/grok-bots-stair-sea-960.webp 960w, /previews/grok-bots-stair-sea-1600.webp 1600w, /previews/grok-bots-stair-sea-2400.webp 2400w, /previews/grok-bots-stair-sea-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-stair-sea-phone.jpg",
+        "filename": "grok-bots-stair-sea-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 2967032,
+        "sha256": "c4aa0666d1b402eb4762d5b96285201efd33cb544a3de2161fec96e0b6c67c47",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-teacup-tide",
+      "title": "Grok Bots, Teacup Tide",
+      "summary": "Surrealism set. Giant teacups float in a harbor of tea.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3416390,
+      "sha256": "2295578d352959ecade68749f3cab26e357f9df5389e8e74f048d91111768395",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-teacup-tide.jpg",
+      "file": "/files/grok-bots-teacup-tide.jpg",
+      "alt": "Glossy round characters with simple dark eyes riding in giant porcelain teacups on amber tea.",
+      "preview": {
+        "src": "/previews/grok-bots-teacup-tide-2400.webp",
+        "srcset": "/previews/grok-bots-teacup-tide-960.webp 960w, /previews/grok-bots-teacup-tide-1600.webp 1600w, /previews/grok-bots-teacup-tide-2400.webp 2400w, /previews/grok-bots-teacup-tide-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-teacup-tide-phone.jpg",
+        "filename": "grok-bots-teacup-tide-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3081202,
+        "sha256": "ead193f51740987556f88ffaa13822c74f754197359092b58f9127cd01c5ad34",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-two-seasons",
+      "title": "Grok Bots, Two Seasons",
+      "summary": "Surrealism set. One shore is summer and the other is winter.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 5975302,
+      "sha256": "d549672ab77b424fb6341fc322d1c4532749608692f1aca44d7623a9e7dbd37a",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-two-seasons.jpg",
+      "file": "/files/grok-bots-two-seasons.jpg",
+      "alt": "Glossy round characters with simple dark eyes on a lake split between a summer shore and a winter shore.",
+      "preview": {
+        "src": "/previews/grok-bots-two-seasons-2400.webp",
+        "srcset": "/previews/grok-bots-two-seasons-960.webp 960w, /previews/grok-bots-two-seasons-1600.webp 1600w, /previews/grok-bots-two-seasons-2400.webp 2400w, /previews/grok-bots-two-seasons-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-two-seasons-phone.jpg",
+        "filename": "grok-bots-two-seasons-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3917631,
+        "sha256": "c64910715b4c3b97278041bfe6580cf2cce670a28b11ec6f2e1ead5a0aa2f8bb",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-umbrella-field",
+      "title": "Grok Bots, Umbrella Field",
+      "summary": "Surrealism set. The ground is a field of open umbrellas.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4749643,
+      "sha256": "02ae9ab2dd19de9cce47c835f5b045b287b3bcb5692db9556a6305d5eb79b694",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-umbrella-field.jpg",
+      "file": "/files/grok-bots-umbrella-field.jpg",
+      "alt": "Glossy round characters with simple dark eyes over a field paved with colorful open umbrellas.",
+      "preview": {
+        "src": "/previews/grok-bots-umbrella-field-2400.webp",
+        "srcset": "/previews/grok-bots-umbrella-field-960.webp 960w, /previews/grok-bots-umbrella-field-1600.webp 1600w, /previews/grok-bots-umbrella-field-2400.webp 2400w, /previews/grok-bots-umbrella-field-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-umbrella-field-phone.jpg",
+        "filename": "grok-bots-umbrella-field-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 4139412,
+        "sha256": "37d70f763e4c73171f3947ef74ba56861b6701a3b369f1eb3dd28b59fac4fa69",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-whale-ribs",
+      "title": "Grok Bots, Whale Library",
+      "summary": "Surrealism set. A stone whale full of books floats over a city.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3287734,
+      "sha256": "6c84ca343cfd8072e44c8c4a9f336612164fc73a86a17a12b11378d67022888d",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-whale-ribs.jpg",
+      "file": "/files/grok-bots-whale-ribs.jpg",
+      "alt": "Glossy round characters with simple dark eyes inside the ribcage of a stone whale lined with books, above a night city.",
+      "preview": {
+        "src": "/previews/grok-bots-whale-ribs-2400.webp",
+        "srcset": "/previews/grok-bots-whale-ribs-960.webp 960w, /previews/grok-bots-whale-ribs-1600.webp 1600w, /previews/grok-bots-whale-ribs-2400.webp 2400w, /previews/grok-bots-whale-ribs-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-whale-ribs-phone.jpg",
+        "filename": "grok-bots-whale-ribs-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 3104134,
+        "sha256": "9c68b571cb165e0c3e4cf1bf34396214037062d564df44d25c7488075db5e297",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-window-meadow",
+      "title": "Grok Bots, Window Meadow",
+      "summary": "Surrealism set. Wooden frames of other worlds hang over a meadow.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4360176,
+      "sha256": "1611c8d2c687a5d4cf9d7a4f2d1510201d75ec9038af91232b6af6c171ddc9f8",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-window-meadow.jpg",
+      "file": "/files/grok-bots-window-meadow.jpg",
+      "alt": "Glossy round characters with simple dark eyes in a meadow under floating wooden frames that show oceans, moons, and forests.",
+      "preview": {
+        "src": "/previews/grok-bots-window-meadow-2400.webp",
+        "srcset": "/previews/grok-bots-window-meadow-960.webp 960w, /previews/grok-bots-window-meadow-1600.webp 1600w, /previews/grok-bots-window-meadow-2400.webp 2400w, /previews/grok-bots-window-meadow-3200.webp 3200w"
+      },
+      "phone": {
+        "file": "/files/grok-bots-window-meadow-phone.jpg",
+        "filename": "grok-bots-window-meadow-phone.jpg",
+        "width": 4320,
+        "height": 7680,
+        "bytes": 4039750,
+        "sha256": "4327987add6b585b771462e5b2d6f9e349882f73182c9b5d6fdadcd87fd66184",
+        "mime": "image/jpeg",
+        "aspect": "9:16"
+      }
+    },
+    {
+      "id": "grok-bots-out-the-window",
+      "title": "Grok Bots, Out the Window",
+      "summary": "Mace Windu set. A bot tips out of a high window over the city.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3964009,
+      "sha256": "8d3375e2698b610428cda93603f110371281dcfd2dfa525ad3558e9c4d905f72",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-out-the-window.jpg",
+      "file": "/files/grok-bots-out-the-window.jpg",
+      "alt": "Mace Windu set. A bot tips out of a high window over the city.",
+      "preview": {
+        "src": "/previews/grok-bots-out-the-window-2400.webp",
+        "srcset": "/previews/grok-bots-out-the-window-960.webp 960w, /previews/grok-bots-out-the-window-1600.webp 1600w, /previews/grok-bots-out-the-window-2400.webp 2400w, /previews/grok-bots-out-the-window-3200.webp 3200w"
+      },
+      "edition": "mace-windu"
+    },
+    {
+      "id": "grok-bots-long-fall",
+      "title": "Grok Bots, The Long Fall",
+      "summary": "Mace Windu set. One bot falls through a violet sky between towers.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 4100715,
+      "sha256": "2e0be051248d1554ed605b89b3a5868d53c87a80736c07c7db8ade3ca18e64a4",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-long-fall.jpg",
+      "file": "/files/grok-bots-long-fall.jpg",
+      "alt": "Mace Windu set. One bot falls through a violet sky between towers.",
+      "preview": {
+        "src": "/previews/grok-bots-long-fall-2400.webp",
+        "srcset": "/previews/grok-bots-long-fall-960.webp 960w, /previews/grok-bots-long-fall-1600.webp 1600w, /previews/grok-bots-long-fall-2400.webp 2400w, /previews/grok-bots-long-fall-3200.webp 3200w"
+      },
+      "edition": "mace-windu"
+    },
+    {
+      "id": "grok-bots-soft-landing",
+      "title": "Grok Bots, Soft Landing",
+      "summary": "Mace Windu set. A bot sits in a rooftop pool under one lit window.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3455847,
+      "sha256": "d0ca8ea4ab8eab15081336f4534ddf909aae8de140767b7d96767ecb83f66d3f",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-soft-landing.jpg",
+      "file": "/files/grok-bots-soft-landing.jpg",
+      "alt": "Mace Windu set. A bot sits in a rooftop pool under one lit window.",
+      "preview": {
+        "src": "/previews/grok-bots-soft-landing-2400.webp",
+        "srcset": "/previews/grok-bots-soft-landing-960.webp 960w, /previews/grok-bots-soft-landing-1600.webp 1600w, /previews/grok-bots-soft-landing-2400.webp 2400w, /previews/grok-bots-soft-landing-3200.webp 3200w"
+      },
+      "edition": "mace-windu"
+    },
+    {
+      "id": "grok-bots-still-watching",
+      "title": "Grok Bots, Still Watching",
+      "summary": "Mace Windu set. Three bots watch a fourth already in the air.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3941198,
+      "sha256": "7df87e8d971b4ac90d13210f2ae92364e97a1fd7989f2c224c3c38b638c9a716",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-still-watching.jpg",
+      "file": "/files/grok-bots-still-watching.jpg",
+      "alt": "Mace Windu set. Three bots watch a fourth already in the air.",
+      "preview": {
+        "src": "/previews/grok-bots-still-watching-2400.webp",
+        "srcset": "/previews/grok-bots-still-watching-960.webp 960w, /previews/grok-bots-still-watching-1600.webp 1600w, /previews/grok-bots-still-watching-2400.webp 2400w, /previews/grok-bots-still-watching-3200.webp 3200w"
+      },
+      "edition": "mace-windu"
+    },
+    {
+      "id": "grok-bots-at-the-mic",
+      "title": "Grok Bots, At the Mic",
+      "summary": "A glossy black Grok Bot at a studio microphone.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 2107957,
+      "sha256": "ad8e516378d64d1f93e4a970690b560ee966fdd921ae990f9d0ce5ce7f8db13a",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-at-the-mic.jpg",
+      "file": "/files/grok-bots-at-the-mic.jpg",
+      "alt": "A glossy black round character with simple dark eyes and white tattoos leans into a silver microphone against a flat red background.",
+      "preview": {
+        "src": "/previews/grok-bots-at-the-mic-2400.webp?v=ad8e516378d6",
+        "srcset": "/previews/grok-bots-at-the-mic-960.webp?v=ad8e516378d6 960w, /previews/grok-bots-at-the-mic-1600.webp?v=ad8e516378d6 1600w, /previews/grok-bots-at-the-mic-2400.webp?v=ad8e516378d6 2400w, /previews/grok-bots-at-the-mic-3200.webp?v=ad8e516378d6 3200w"
+      },
+      "edition": "mace-windu"
+    },
+    {
+      "id": "suddenlyjon-supper",
+      "title": "SuddenlyJon, Supper",
+      "summary": "A quiet supper at a wooden kitchen table.",
+      "added": "2026-09-30",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 3216533,
+      "sha256": "e087807ec15193a0ea490d97c6ac55b9c54bee84de052f0f89d5218fcfe06221",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "suddenlyjon-supper.jpg",
+      "file": "/files/suddenlyjon-supper.jpg",
+      "alt": "A bearded man in a charcoal suit sits between a white robot and a dark robot at a set dinner table in a warm kitchen.",
+      "preview": {
+        "src": "/previews/suddenlyjon-supper-2400.webp",
+        "srcset": "/previews/suddenlyjon-supper-960.webp 960w, /previews/suddenlyjon-supper-1600.webp 1600w, /previews/suddenlyjon-supper-2400.webp 2400w, /previews/suddenlyjon-supper-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "grok-bots-vinyl-friday",
+      "title": "Grok Bots, Vinyl Friday",
+      "summary": "Colorful Grok Bots gather around a spinning turntable and vinyl crates on a golden Bandcamp Friday evening.",
+      "added": "2026-10-02",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 6149106,
+      "sha256": "e0c68edde0d24a64d2dbadfbc5da584fc41e535b2d8b1c181ef8868220811123",
+      "mime": "image/jpeg",
+      "aspect": "16:9",
+      "filename": "grok-bots-vinyl-friday.jpg",
+      "file": "/files/grok-bots-vinyl-friday.jpg",
+      "alt": "Six colorful round Grok Bots with simple dark oval eyes listen beside a wooden turntable and crates of vinyl records in a warm sunlit room with fairy lights and plants.",
+      "preview": {
+        "src": "/previews/grok-bots-vinyl-friday-2400.webp",
+        "srcset": "/previews/grok-bots-vinyl-friday-960.webp 960w, /previews/grok-bots-vinyl-friday-1600.webp 1600w, /previews/grok-bots-vinyl-friday-2400.webp 2400w, /previews/grok-bots-vinyl-friday-3200.webp 3200w"
+      }
+    },
+    {
+      "id": "valhallabtc-award",
+      "title": "Valhallabtc",
+      "summary": "Veil and Vane award. First to reply with the hidden phrase.",
+      "added": "2026-10-02",
+      "width": 7680,
+      "height": 4320,
+      "bytes": 6057201,
+      "sha256": "7c2eb04506286dce14de36b49037882d549c84caebcb201aa280bb19b70f9289",
+      "mime": "image/png",
+      "aspect": "16:9",
+      "filename": "valhallabtc-award.png",
+      "file": "/files/valhallabtc-award.png",
+      "alt": "Honorary wallpaper for @Valhallabtc, first to reply with the hidden phrase.",
+      "preview": {
+        "src": "/previews/valhallabtc-award-2400.webp?v=1.3.22",
+        "srcset": "/previews/valhallabtc-award-960.webp?v=1.3.22 960w, /previews/valhallabtc-award-1600.webp?v=1.3.22 1600w, /previews/valhallabtc-award-2400.webp?v=1.3.22 2400w, /previews/valhallabtc-award-3200.webp?v=1.3.22 3200w"
+      },
+      "featured": true,
+      "edition": "veil-vane"
+    }
+  ]
+}

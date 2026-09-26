@@ -1,0 +1,28 @@
+# Wallpapers
+
+> Original wallpapers by Jon Bailey. Full resolution, no account, free.
+
+## What this is
+
+A download site. The newest wallpaper and the most loved wallpaper are featured on the homepage.
+
+## Facts
+
+- No account
+- No payment
+- The download is the original file
+- Download all saves every wallpaper and counts a save of each one
+- The number at the top is the sum of the download count listed once on each wallpaper
+- Share on a picture copies a link to that wallpaper
+- The large view opens on one limited edition wallpaper while that set is current, then holds the main set. Swipe, or use Previous and Next, to move through them
+- Limited edition is a separate section of spooky scary Halloween Grok Bot desktop wallpapers
+- Veil & Vane Award Winners is a separate section of honorary wallpapers. An unfeatured one stays out of the large view. A featured pin opens the large view
+- Some wallpapers also have a phone-shaped file, and that download is full resolution too
+- The picture on the page is a preview
+- Most loved is the wallpaper with the most loves
+- Ties go to the wallpaper with more downloads, then to the newer one
+- Newest is the wallpaper added most recently
+
+## Canonical
+
+https://wallpaper.jonbailey.xyz/
