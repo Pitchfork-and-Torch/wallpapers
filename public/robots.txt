@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /dl/
+Disallow: /love/
+Disallow: /api/
+Disallow: /files/
+
+Sitemap: https://wallpaper.jonbailey.xyz/sitemap.xml
