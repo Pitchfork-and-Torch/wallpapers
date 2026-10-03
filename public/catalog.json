@@ -1,5 +1,5 @@
 {
-  "version": "1.3.22",
+  "version": "1.3.23",
   "wallpapers": [
     {
       "id": "grok-bots-orbs",
@@ -2239,7 +2239,8 @@
       "preview": {
         "src": "/previews/grok-bots-vinyl-friday-2400.webp",
         "srcset": "/previews/grok-bots-vinyl-friday-960.webp 960w, /previews/grok-bots-vinyl-friday-1600.webp 1600w, /previews/grok-bots-vinyl-friday-2400.webp 2400w, /previews/grok-bots-vinyl-friday-3200.webp 3200w"
-      }
+      },
+      "featured": true
     },
     {
       "id": "valhallabtc-award",
@@ -2259,7 +2260,6 @@
         "src": "/previews/valhallabtc-award-2400.webp?v=1.3.22",
         "srcset": "/previews/valhallabtc-award-960.webp?v=1.3.22 960w, /previews/valhallabtc-award-1600.webp?v=1.3.22 1600w, /previews/valhallabtc-award-2400.webp?v=1.3.22 2400w, /previews/valhallabtc-award-3200.webp?v=1.3.22 3200w"
       },
-      "featured": true,
       "edition": "veil-vane"
     }
   ]
